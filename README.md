@@ -5,7 +5,7 @@ A demonstration project showcasing how to log API requests and responses to Goog
 ## Blog Post
 
 For a detailed explanation of this implementation, read the full blog post:
-**[Coming Soon - Link will be added here]**
+[Building a Scalable API Event Logger using Pub/Sub, and BigQuery](https://dev.to/idrisrampurawala/building-a-scalable-api-event-logger-using-pubsub-and-bigquery-37dg)
 
 ## Overview
 
